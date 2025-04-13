@@ -8,4 +8,6 @@
   </a>
 </p>
 
+[![shadowstarrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowstarrr)](https://github.com/shadowstarrr/github-readme-stats)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=262625&height=120&section=footer"/>
